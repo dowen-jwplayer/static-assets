@@ -1,142 +1,18 @@
 [
     {
-        "id": "10990617-c229-4d1e-b341-7fe100b36b7c", 
-        "title": "Action & Drama Movies",
-        "desc": {
-            "_lang": "en"
-        },
-        "date": "20230413",
-        "category": {
-            "_lang": "en"
-        },
-        "startTime": "2022-07-15T00:00:00Z",
-        "endTime": "2022-07-15T01:00:00Z",
-        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
-    },
-    {
-        "id": "20990617-c229-4d1e-b341-7fe100b36b8c", 
-        "title": "Family Movies",
+        "id": "00990617-c229-4d1e-b341-7fe100b36b3c",
+        "title":  "FAST Action & Drama Movies",
+        "startTime": "2022-07-15T00:05:00Z",
+        "endTime": "2022-07-15T23:55:00Z",
         "chapterPointCustomProperties": [
             {
                 "key": "description",
-                "value": "Family fun movies for everyone!"
+                "value": "The best action from the JW FAST channel, bringing you non-stop action all day every day!"
             },
             {
                 "key": "image",
                 "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
             }
-        ],
-        "date": "20230414",
-        "category": {
-            "_lang": "en"
-        },
-        "startTime": "2022-07-15T16:00:00Z",
-        "endTime": "2022-07-15T17:00:00Z",
-        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
-    },
-    {
-        "id": "30990617-c229-4d1e-b341-7fe100b36b9c", 
-        "title": "Action & Drama Movies",
-        "chapterPointCustomProperties": [
-            {
-                "key": "description",
-                "value": "Action-packed and drama-filled movies"
-            },
-            {
-                "key": "image",
-                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
-            }
-        ],
-        "date": "20230414",
-        "category": {
-            "_lang": "en"
-        },
-        "startTime": "2022-07-15T17:00:00Z",
-        "endTime": "2022-07-15T18:00:00Z",
-        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
-    },
-    {
-        "id": "40990617-c229-4d1e-b341-7fe100b36c3c", 
-        "title": "Scenic Videos",
-        "desc": {
-            "_lang": "en"
-        },
-        "date": "20230414",
-        "category": {
-            "_lang": "en"
-        },
-        "startTime": "2022-07-15T18:00:00Z",
-        "endTime": "2022-07-15T18:30:00Z",
-        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
-    },
-    {
-        "id": "50990617-c229-4d1e-b341-7fe100b37b3c", 
-        "title": "Family Movies",
-        "desc": {
-            "_lang": "en"
-        },
-        "date": "20230414",
-        "category": {
-            "_lang": "en"
-        },
-        "startTime": "2022-07-15T18:30:00Z",
-        "endTime": "2022-07-15T19:30:00Z",
-        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
-    },
-    {
-        "id": "60990617-c229-4d1e-b341-7fe100b38b3c", 
-        "title": "Action & Drama Movies",
-        "desc": {
-            "_lang": "en"
-        },
-        "date": "20230414",
-        "category": {
-            "_lang": "en"
-        },
-        "startTime": "2022-07-15T19:30:00Z",
-        "endTime": "2022-07-15T20:00:00Z",
-        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
-    },
-    {
-        "id": "70990617-c229-4d1e-b341-7fe100b39b3c", 
-        "title": "Scenic Videos",
-        "desc": {
-            "_lang": "en"
-        },
-        "date": "20230414",
-        "category": {
-            "_lang": "en"
-        },
-        "startTime": "2022-07-15T20:00:00Z",
-        "endTime": "2022-07-15T21:00:00Z",
-        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
-    },
-    {
-        "id": "80990617-c229-4d1e-b341-7fe100b46b3c", 
-        "title": "Family Movies",
-        "desc": {
-            "_lang": "en"
-        },
-        "date": "20230414",
-        "category": {
-            "_lang": "en"
-        },
-        "startTime": "2022-07-15T22:00:00Z",
-        "endTime": "2022-07-15T22:00:00Z",
-        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
-    },
-    {
-        "id": "90990617-c229-4d1e-b341-7fe100b56b3c", 
-        "title": "Action & Drama Movies",
-        "desc": {
-            "_lang": "en"
-        },
-        "date": "20230414",
-        "category": {
-            "_lang": "en"
-        },
-        "startTime": "2022-07-15T22:00:00Z",
-        "endTime": "2022-07-15T23:59:00Z",
-        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+        ]
     }
 ]
