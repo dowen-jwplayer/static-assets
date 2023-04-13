@@ -1,0 +1,1654 @@
+[
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230413",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230413160000 +0000",
+        "endTime": "20230413170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230413",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230413170000 +0000",
+        "endTime": "20230413180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230413",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230413180000 +0000",
+        "endTime": "20230413183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230413",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230413183000 +0000",
+        "endTime": "20230413193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230413",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230413193000 +0000",
+        "endTime": "20230413203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230413",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230413203000 +0000",
+        "endTime": "20230413210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230413",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230413210000 +0000",
+        "endTime": "20230413220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230413",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230413220000 +0000",
+        "endTime": "20230414010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230414",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230414160000 +0000",
+        "endTime": "20230414170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230414",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230414170000 +0000",
+        "endTime": "20230414180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230414",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230414180000 +0000",
+        "endTime": "20230414183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230414",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230414183000 +0000",
+        "endTime": "20230414193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230414",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230414193000 +0000",
+        "endTime": "20230414203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230414",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230414203000 +0000",
+        "endTime": "20230414210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230414",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230414210000 +0000",
+        "endTime": "20230414220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230414",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230414220000 +0000",
+        "endTime": "20230415010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230415",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230415160000 +0000",
+        "endTime": "20230415170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230415",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230415170000 +0000",
+        "endTime": "20230415180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230415",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230415180000 +0000",
+        "endTime": "20230415183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230415",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230415183000 +0000",
+        "endTime": "20230415193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230415",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230415193000 +0000",
+        "endTime": "20230415203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230415",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230415203000 +0000",
+        "endTime": "20230415210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230415",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230415210000 +0000",
+        "endTime": "20230415220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230415",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230415220000 +0000",
+        "endTime": "20230416010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230416",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230416160000 +0000",
+        "endTime": "20230416170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230416",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230416170000 +0000",
+        "endTime": "20230416180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230416",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230416180000 +0000",
+        "endTime": "20230416183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230416",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230416183000 +0000",
+        "endTime": "20230416193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230416",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230416193000 +0000",
+        "endTime": "20230416203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230416",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230416203000 +0000",
+        "endTime": "20230416210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230416",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230416210000 +0000",
+        "endTime": "20230416220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230416",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230416220000 +0000",
+        "endTime": "20230417010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230417",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230417160000 +0000",
+        "endTime": "20230417170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230417",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230417170000 +0000",
+        "endTime": "20230417180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230417",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230417180000 +0000",
+        "endTime": "20230417183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230417",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230417183000 +0000",
+        "endTime": "20230417193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230417",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230417193000 +0000",
+        "endTime": "20230417203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230417",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230417203000 +0000",
+        "endTime": "20230417210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230417",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230417210000 +0000",
+        "endTime": "20230417220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230417",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230417220000 +0000",
+        "endTime": "20230418010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230418",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230418160000 +0000",
+        "endTime": "20230418170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230418",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230418170000 +0000",
+        "endTime": "20230418180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230418",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230418180000 +0000",
+        "endTime": "20230418183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230418",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230418183000 +0000",
+        "endTime": "20230418193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230418",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230418193000 +0000",
+        "endTime": "20230418203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230418",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230418203000 +0000",
+        "endTime": "20230418210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230418",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230418210000 +0000",
+        "endTime": "20230418220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230418",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230418220000 +0000",
+        "endTime": "20230419010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230419",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230419160000 +0000",
+        "endTime": "20230419170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230419",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230419170000 +0000",
+        "endTime": "20230419180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230419",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230419180000 +0000",
+        "endTime": "20230419183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230419",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230419183000 +0000",
+        "endTime": "20230419193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230419",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230419193000 +0000",
+        "endTime": "20230419203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230419",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230419203000 +0000",
+        "endTime": "20230419210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230419",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230419210000 +0000",
+        "endTime": "20230419220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230419",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230419220000 +0000",
+        "endTime": "20230420010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230420",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230420160000 +0000",
+        "endTime": "20230420170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230420",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230420170000 +0000",
+        "endTime": "20230420180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230420",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230420180000 +0000",
+        "endTime": "20230420183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230420",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230420183000 +0000",
+        "endTime": "20230420193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230420",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230420193000 +0000",
+        "endTime": "20230420203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230420",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230420203000 +0000",
+        "endTime": "20230420210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230420",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230420210000 +0000",
+        "endTime": "20230420220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230420",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230420220000 +0000",
+        "endTime": "20230421010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230421",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230421160000 +0000",
+        "endTime": "20230421170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230421",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230421170000 +0000",
+        "endTime": "20230421180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230421",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230421180000 +0000",
+        "endTime": "20230421183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230421",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230421183000 +0000",
+        "endTime": "20230421193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230421",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230421193000 +0000",
+        "endTime": "20230421203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230421",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230421203000 +0000",
+        "endTime": "20230421210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230421",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230421210000 +0000",
+        "endTime": "20230421220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230421",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230421220000 +0000",
+        "endTime": "20230422010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230422",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230422160000 +0000",
+        "endTime": "20230422170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230422",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230422170000 +0000",
+        "endTime": "20230422180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230422",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230422180000 +0000",
+        "endTime": "20230422183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230422",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230422183000 +0000",
+        "endTime": "20230422193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230422",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230422193000 +0000",
+        "endTime": "20230422203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230422",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230422203000 +0000",
+        "endTime": "20230422210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230422",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230422210000 +0000",
+        "endTime": "20230422220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230422",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230422220000 +0000",
+        "endTime": "20230423010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230423",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230423160000 +0000",
+        "endTime": "20230423170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230423",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230423170000 +0000",
+        "endTime": "20230423180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230423",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230423180000 +0000",
+        "endTime": "20230423183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230423",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230423183000 +0000",
+        "endTime": "20230423193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230423",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230423193000 +0000",
+        "endTime": "20230423203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230423",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230423203000 +0000",
+        "endTime": "20230423210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230423",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230423210000 +0000",
+        "endTime": "20230423220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230423",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230423220000 +0000",
+        "endTime": "20230424010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230424",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230424160000 +0000",
+        "endTime": "20230424170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230424",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230424170000 +0000",
+        "endTime": "20230424180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230424",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230424180000 +0000",
+        "endTime": "20230424183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230424",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230424183000 +0000",
+        "endTime": "20230424193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230424",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230424193000 +0000",
+        "endTime": "20230424203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230424",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230424203000 +0000",
+        "endTime": "20230424210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230424",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230424210000 +0000",
+        "endTime": "20230424220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230424",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230424220000 +0000",
+        "endTime": "20230425010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230425",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230425160000 +0000",
+        "endTime": "20230425170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230425",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230425170000 +0000",
+        "endTime": "20230425180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230425",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230425180000 +0000",
+        "endTime": "20230425183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230425",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230425183000 +0000",
+        "endTime": "20230425193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230425",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230425193000 +0000",
+        "endTime": "20230425203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230425",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230425203000 +0000",
+        "endTime": "20230425210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230425",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230425210000 +0000",
+        "endTime": "20230425220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230425",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230425220000 +0000",
+        "endTime": "20230426010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230426",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230426160000 +0000",
+        "endTime": "20230426170000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Action-packed and drama-filled movies"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ],
+        "date": "20230426",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230426170000 +0000",
+        "endTime": "20230426180000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230426",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230426180000 +0000",
+        "endTime": "20230426183000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230426",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230426183000 +0000",
+        "endTime": "20230426193000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230426",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230426193000 +0000",
+        "endTime": "20230426203000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Scenic Videos",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230426",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230426203000 +0000",
+        "endTime": "20230426210000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Family Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230426",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230426210000 +0000",
+        "endTime": "20230426220000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    },
+    {
+        "title": "Action & Drama Movies",
+        "desc": {
+            "_lang": "en"
+        },
+        "date": "20230426",
+        "category": {
+            "_lang": "en"
+        },
+        "startTime": "20230426220000 +0000",
+        "endTime": "20230427010000 +0000",
+        "_channel": "f519b985-f1c9-49cc-a97b-defb12269520"
+    }
+]
