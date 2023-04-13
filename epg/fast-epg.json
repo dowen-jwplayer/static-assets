@@ -1,9 +1,121 @@
 [
     {
         "id": "00990617-c229-4d1e-b341-7fe100b36b3c",
-        "title":  "FAST Action & Drama Movies",
-        "startTime": "2022-07-15T00:05:00Z",
-        "endTime": "2022-07-15T23:55:00Z",
+        "title":  "Family Movies",
+        "startTime": "2022-07-15T16:00:00Z",
+        "endTime": "2022-07-15T17:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone on your favourite JW FAST channel!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ]
+    },
+    {
+        "id": "10990617-c229-4d1e-b341-7fe100b36b3c",
+        "title":  "Action & Drama Movies",
+        "startTime": "2022-07-15T17:00:00Z",
+        "endTime": "2022-07-15T18:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "The best action from the JW FAST channel, bringing you non-stop action all day every day!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ]
+    },
+    {
+        "id": "20990617-c229-4d1e-b341-7fe100b36b3c",
+        "title":  "Scenic Videos",
+        "startTime": "2022-07-15T18:00:00Z",
+        "endTime": "2022-07-15T18:30:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Beautiful imagery to soothe and relax your mind on your favourite JW FAST channel!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ]
+    },
+    {
+        "id": "30990617-c229-4d1e-b341-7fe100b36b3c",
+        "title":  "Family Movies",
+        "startTime": "2022-07-15T18:30:00Z",
+        "endTime": "2022-07-15T19:30:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ]
+    },
+    {
+        "id": "40990617-c229-4d1e-b341-7fe100b36b3c",
+        "title":  "Action & Drama Movies",
+        "startTime": "2022-07-15T19:30:00Z",
+        "endTime": "2022-07-15T20:30:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "The best action from the JW FAST channel, bringing you non-stop action all day every day!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ]
+    },
+    {
+        "id": "50990617-c229-4d1e-b341-7fe100b36b3c",
+        "title":  "Scenic Videos",
+        "startTime": "2022-07-15T20:30:00Z",
+        "endTime": "2022-07-15T21:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Beautiful imagery to soothe and relax your mind on your favourite JW FAST channel!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ]
+    },
+    {
+        "id": "60990617-c229-4d1e-b341-7fe100b36b3c",
+        "title":  "Family Movies",
+        "startTime": "2022-07-15T21:00:00Z",
+        "endTime": "2022-07-15T22:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Family fun movies for everyone!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ]
+    },
+    {
+        "id": "70990617-c229-4d1e-b341-7fe100b36b3c",
+        "title":  "Action & Drama Movies",
+        "startTime": "2022-07-15T22:00:00Z",
+        "endTime": "2022-07-15T23:59:00Z",
         "chapterPointCustomProperties": [
             {
                 "key": "description",
