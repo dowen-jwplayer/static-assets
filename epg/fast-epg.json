@@ -142,5 +142,21 @@
                 "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
             }
         ]
+    },
+    {
+        "id": "00990617-c229-4d1e-b341-7fe100b36b3c",
+        "title":  "Scenic Videos",
+        "startTime": "2022-07-16T00:00:00Z",
+        "endTime": "2022-07-16T16:00:00Z",
+        "chapterPointCustomProperties": [
+            {
+                "key": "description",
+                "value": "Beautiful imagery to soothe and relax your mind on your favourite JW FAST channel!"
+            },
+            {
+                "key": "image",
+                "value": "https://raw.githubusercontent.com/dowen-jwplayer/static-assets/main/epg/FAST-channel.jpg"
+            }
+        ]
     }
 ]
